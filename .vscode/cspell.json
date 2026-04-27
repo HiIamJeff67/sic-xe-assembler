@@ -1,0 +1,8 @@
+{
+  "version": "0.2",
+  "language": "en,python,c,cpp,asm",
+  "dictionaries": ["c", "cpp", "asm", "python"],
+  "enabled": false,
+  "ignorePaths": [],
+  "words": []
+}
